@@ -4,7 +4,7 @@ public class Githaha {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Git修改");
+		System.out.println("Git修改成功");
 	}
 
 }
